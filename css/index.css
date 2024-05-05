@@ -1,0 +1,51 @@
+@import url('https://fonts.cdnfonts.com/css/goldoni');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+#title-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    font-size: 4vh;
+    font-weight: 280;
+    
+}
+
+header{
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    height: 14vh;
+}
+
+.container{
+    width: 1350px;
+}
+
+.line{
+    font-size: 100vh;
+}
+
+#refinatto{
+    font-size: 24vh;
+    color: #575770;
+    font-family: 'Goldoni', sans-serif;
+    margin-left: 98px;
+}
+
+#title-body{
+    background-image: url(../imagens/Design\ sem\ nome.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    
+}
+
+#refinatto2{
+    font-size: 40px;
+    margin: 98px;
+    margin-top: 0px;
+    width: 600px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 150;
+}
